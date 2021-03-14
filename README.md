@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rafimuh19
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning back-end programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @rafmuhammad19 (Instagram)
 
 <!---
